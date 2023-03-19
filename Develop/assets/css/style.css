@@ -1,3 +1,4 @@
+/* General Styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,29 @@
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Utility Classes */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Header Styling */
 
 .header {
     padding: 20px;
@@ -37,14 +61,11 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
+mark {
+    background-color: transparent;
 }
 
-p {
-    font-size: 16px;
-}
+/* Hero Picture */
 
 .hero {
     height: 800px;
@@ -55,15 +76,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* Main Section */
 
 .content {
     width: 75%;
@@ -88,6 +101,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Aside - misc info */
 
 .benefits {
     margin-right: 20px;
@@ -116,6 +131,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
