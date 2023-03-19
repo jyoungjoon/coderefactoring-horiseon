@@ -1,44 +1,30 @@
-# Project Title
+# Code Refactor - Horiseon
 
-Simple overview of use/purpose.
-
+This webpage includes refactored version of Horiseon's, a marketing agency, website.
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The code has been cleaned up to be more accessible and optimized for search engines. The code has been consolidated and organized to be more efficient and easier to read. The webpage has been tested to ensure that all links are working properly.
 
 ## Getting Started
 
+Simply click on the navigation links on the top-right to navigate to the desired section of the webpage.
+
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+There are no dependencies for this project. However, the webpage does require an internet connection to load.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
+There is no installation required for this project.
 ## Authors
 
-Contributors names and contact info
+Original starter code provided by UC Berkeley Extension Coding FSF Bootcamp
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Name : Xander Rapstine
+Github : [Xandromus](https://github.com/Xandromus)
+
+Name : Young Jang
+Github : [jyoungjoon](https://github.com/jyoungjoon/)
 
 ## Version History
 
