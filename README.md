@@ -1,13 +1,15 @@
 # Code Refactor - Horiseon
 
-This webpage includes refactored version of Horiseon's, a marketing agency, website.
+![Horiseon Webpage](/Develop/assets/images/horiseon-screenshot.png)
+
+This project includes refactored version of Horiseon's, a marketing agency, website.
 ## Description
 
 The code has been cleaned up to be more accessible and optimized for search engines. The code has been consolidated and organized to be more efficient and easier to read. The webpage has been tested to ensure that all links are working properly.
 
 ## Getting Started
 
-Simply click on the navigation links on the top-right to navigate to the desired section of the webpage.
+Go to https://jyoungjoon.github.io/coderefactoring-horiseon/ and simply click on the navigation links on the top-right to navigate to the desired section of the webpage.
 
 ### Dependencies
 
@@ -25,6 +27,8 @@ Github : [Xandromus](https://github.com/Xandromus)
 
 Name : Young Jang
 Github : [jyoungjoon](https://github.com/jyoungjoon/)
+
+Name: Weng Fung (Tutor)
 
 ## Version History
 
