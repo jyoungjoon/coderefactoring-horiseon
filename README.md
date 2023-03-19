@@ -23,10 +23,10 @@ There is no installation required for this project.
 Original starter code provided by UC Berkeley Extension Coding FSF Bootcamp
 
 Name : Xander Rapstine
-Github : [Xandromus](https://github.com/Xandromus)
+* Github : [Xandromus](https://github.com/Xandromus)
 
 Name : Young Jang
-Github : [jyoungjoon](https://github.com/jyoungjoon/)
+* Github : [jyoungjoon](https://github.com/jyoungjoon/)
 
 Name: Weng Fung (Tutor)
 
@@ -34,7 +34,9 @@ Name: Weng Fung (Tutor)
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * See resolved issues [here](https://github.com/jyoungjoon/coderefactoring-horiseon/issues?q=is%3Aissue+is%3Aclosed)
+    * See committed changes [here](https://github.com/jyoungjoon/coderefactoring-horiseon/pulls?q=is%3Apr+is%3Aclosed)
+
 * 0.1
     * Initial Release
 
